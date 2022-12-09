@@ -1,0 +1,79 @@
+/*
+ ___ _   _ _ _ _ ___ ___ ___ _   _
+|_ -| |_|_'_| v | -_| ._| . | |_| |_
+|___|___||_||_v_|___|_-_|_,_|___|___|
+
+FONTS USED:
+    - Nunito
+    - Manrope
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+p, li, a {
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+}
+
+p, li:last-child {
+    margin: 0 0 12px;
+}
+
+p:last-child, li {
+    margin: 0 0 0px;
+}
+
+a {
+    color: #A7FF8D;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+a:hover{
+    color: black;
+    background-color: #A7FF8D;
+    /* border-radius: 20%; */
+
+}
+
+a:visited{
+    color: none;
+}
+
+h1 {
+    color: #90e894;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    margin: 0;
+}
+
+h2 {
+    color: #6fc774;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 26px;
+    margin: 0;
+}
+
+h3, h4, h5, h6 {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    margin: 5px 0 0;
+}
+
+h3 {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 900;
+}

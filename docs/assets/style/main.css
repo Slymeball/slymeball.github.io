@@ -1,0 +1,18 @@
+body {
+    margin: 10px 25%;
+    padding: 0;
+    background-color: #11111b;
+}
+
+div.container {
+    border: 1px solid #33333c80;
+    margin: 10px 0 0;
+    padding: 10px;
+    background-color: #22222b80;
+    border-radius: 10px;
+}
+
+hr {
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    border-radius: 100%
+}
