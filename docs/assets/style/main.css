@@ -4,6 +4,12 @@ body {
     background-color: #11111b;
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    margin: 10px 10px;
+  }
+}
+
 div.container {
     border: 1px solid #33333c80;
     margin: 10px 0 0;
