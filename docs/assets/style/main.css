@@ -45,6 +45,10 @@ ul.image-stack li a {
     padding: 0px 4px;
 }
 
+ul.image-stack li a:hover {
+    background-color: none;
+}
+
 ul.image-stack li:first-child a {
     padding: 0 4px 0 0;
 }
