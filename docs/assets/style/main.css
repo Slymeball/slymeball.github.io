@@ -5,9 +5,9 @@ body {
 }
 
 @media screen and (max-width: 800px) {
-  body {
-    margin: 10px 10px;
-  }
+    body {
+        margin: 10px 10px;
+    }
 }
 
 div.container {
@@ -21,4 +21,31 @@ div.container {
 hr {
     border: 1px solid rgba(255, 255, 255, 0.75);
     border-radius: 100%
+}
+
+ul.image-stack {
+    list-style-type: none;
+    padding: 0 0;
+    overflow: hidden;
+}
+
+ul.image-stack li {
+    float: left;
+}
+
+ul.image-stack li a {
+    display: block;
+    font-family: "Barlow", sans-serif;
+    font-size: 18px;
+    color: white;
+    height: 32px;
+    align-items: center;
+    text-decoration: none;
+    padding: 8px;
+}
+
+ul.image-stack li a img {
+    border-radius: 5px;
+    width: 32px;
+    background-color: rgba(255,255,255,0.25);
 }
