@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- meta shit... tbh idk what this does -->
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Slymeball // Quotes</title> <!-- except this one -->
+        <link href="/assets/images/logo.png" rel="icon">
+
+        <!-- stylesheets -->
+        <link href="/assets/style/fonts.css" rel="stylesheet">
+        <link href="/assets/style/w3nav.css" rel="stylesheet">
+        <link href="/assets/style/main.css" rel="stylesheet">
+        
+        <!-- quote support -->
+        <style>
+            blockquote {
+                border-left: 3px solid rgba(255, 255, 255, 0.35);
+                border-radius: 3px;
+                padding: 5px;
+                padding-left: 10px;
+                margin: 0;
+                margin-left: 20px;
+            }
+
+            blockquote q {
+                color: white;
+                font-family: 'Manrope', sans-serif;
+                font-weight: 400;
+                font-size: 18px;
+                margin: 0;
+            }
+
+            blockquote cite {
+                color:rgba(255, 255, 255, 0.75);
+                font-family: 'Manrope', sans-serif;
+                font-weight: 300;
+                font-size: 14px;
+                margin: 0;
+            }
+
+            blockquote cite::before {
+                color:rgba(228, 228, 228, 0.75);
+                font-family: 'Manrope', sans-serif;
+                font-weight: 300;
+                font-size: 15px;
+                margin: 0;
+                content: "\a— ";
+                white-space: pre;
+            }
+        </style>
+
+        <!-- scripts -->
+        <script src="https://kit.fontawesome.com/2202892bcb.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        {% include header.html %}
+        <div class="container">
+            <h1>Quotes</h1>
+            <hr>
+            <p>Here are some quotes I really enjoy or find somewhat funny and their sources (if applicable).</p>
+            <blockquote>
+                <q>There are so many words in English, you have to use more of them.</q>
+                <cite>DougDoug, 2023, Link forgotton</cite>
+            </blockquote>
+        </div>
+        {%include footer.html %}
+    </body>
+</html>
