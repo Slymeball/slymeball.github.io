@@ -10,3 +10,6 @@ Here are some quotes I really enjoy or find somewhat funny and their sources (if
 
 > <q>You should breathe at least once.</q>
 > <cite><a href="https://4p5.nz">4P5</a>, 2023, In VC</cite>
+
+> <q>I don't know if I want to orbital strike or frame it.</q>
+> <cite><a href="https://4p5.nz">4P5</a>, 2023, In Minecraft Chat</cite>
