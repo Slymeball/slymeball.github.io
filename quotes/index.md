@@ -15,4 +15,4 @@ Here are some quotes I really enjoy or find somewhat funny and their sources (if
 > <cite>[4P5](https://4p5.nz), 2023, In Minecraft Chat</cite>
 
 > <q>Email was invented by hippies, and hippies suck at security.</q>
-> <cite>Dylan Beattie, 2023, <https://youtu.be/mrGfahzt-4Q?t=2005></cite>
+> <cite>Dylan Beattie, 2023, ["Email vs Capitalism, or, Why We Can't Have Nice Things" @ NDC Oslo 2023](https://youtu.be/mrGfahzt-4Q?t=2005)</cite>
