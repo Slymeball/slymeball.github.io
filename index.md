@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+nav-active: 1
 ---
 
 Hello, I'm Slymeball, and welcome to my website! You may know me from the FiguraMC Discord server (I'm quite active there), a Minecraft server, or somewhere on social media. Either way, welcome to my residence on the internet.

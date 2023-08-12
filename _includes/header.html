@@ -1,7 +1,7 @@
 <nav>
     <ul>
-        <li><a href="/" class="active"><img src="/assets/images/logo.png"></a></li>
-        <li><a href="quotes"><img src="/assets/images/navbar/quotes.png"></a></li>
+        <li><a href="/" {% if page.nav-active == 1 %} class="active" {% endif %} ><img src="/assets/images/logo.png"></a></li>
+        <li><a href="quotes" {% if page.nav-active == 2 %} class="active" {% endif %}><img src="/assets/images/navbar/quotes.png"></a></li>
         <li><a href="https://slymeball.github.io/Figura-Wiki"><img src="/assets/images/navbar/figura-wiki.png"></a></li>
         <li><a href="https://github.com/Slymeball/figura-avatars"><img src="/assets/images/navbar/figura.png"></a></li>
         <li><a href="https://toyhou.se/slyme"><img src="/assets/images/navbar/docs.png"></a></li>
