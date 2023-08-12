@@ -6,7 +6,7 @@ layout: default
 Here are some quotes I really enjoy or find somewhat funny and their sources (if applicable).
 
 > <q>There are so many words in English, you have to use more of them.</q>
-> <cite>DougDoug, 2023, Link forgotton</cite>
+> <cite>DougDoug, 2023, [DougDoug and Twitch chat have an intelligent discussion](https://youtu.be/WfRZy__HBYI?t=11)</cite>
 
 > <q>You should breathe at least once.</q>
 > <cite>[4P5](https://4p5.nz), 2023, In VC</cite>
