@@ -42,6 +42,7 @@ nav ul li a:hover {
 
 nav ul li a.active {
     background-color: #90e89480;
+    border-left: 1px solid #a2eea680;
     border-right: 1px solid #a2eea680;
 }
 
