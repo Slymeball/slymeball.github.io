@@ -12,7 +12,7 @@ FONTS USED:
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
-p, li, a {
+p, li {
     color: white;
     font-family: 'Manrope', sans-serif;
     font-weight: 400;
@@ -25,13 +25,15 @@ p, li:last-child {
 }
 
 p:last-child, li {
-    margin: 0 0 0px;
+    margin: 0;
 }
 
 a {
     color: #A7FF8D;
+    font-weight: 400;
     text-decoration: underline;
-    font-size: 16px;
+    font-size: auto 16px;
+    margin: 0;
 }
 
 a:hover{
