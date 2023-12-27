@@ -19,4 +19,4 @@ Here are some quotes I really enjoy or find somewhat funny and their sources (if
 > <cite>Dylan Beattie, 2023, ["Email vs Capitalism, or, Why We Can't Have Nice Things" @ NDC Oslo 2023](https://youtu.be/mrGfahzt-4Q?t=2005)</cite>
 
 > <q>I think I need a stiff drink... I'm talking about alcohol, **NOT PISS!**</q>
-> <cite>Kwite, 2023, [AO3 Tags are Unhinged](https://www.youtube.com/watch?v=IJiBHTPGWyM)</cite>
+> <cite>Kwite, 2023, [AO3 Tags are Unhinged](https://www.youtube.com/watch?v=IJiBHTPGWyM&t=574)</cite>
