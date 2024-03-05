@@ -22,6 +22,7 @@ Hello, I'm Slymeball, and welcome to my website! You may know me from the Figura
     <li><a href="https://lemm.ee/u/slyme"><img src="https://github.com/Slymeball/pixel-icons/blob/main/lemmy.png?raw=true"></a></li>
     <li><a href="https://twitch.tv/BallOfSlyme"><img src="https://github.com/Slymeball/pixel-icons/blob/main/twitch.png?raw=true"></a></li>
     <li><a href="https://mstdn.social/@slyme"><img src="https://github.com/Slymeball/pixel-icons/blob/main/mastodon.png?raw=true"></a></li>
+    <li><a href="https://bsky.app/profile/slyme.xyz"><img src="https://github.com/Slymeball/pixel-icons/blob/main/bluesky.png?raw=true"></a></li>
     <li><a href="https://twitter.com/Slymeballl"><img src="https://github.com/Slymeball/pixel-icons/blob/main/twitter.png?raw=true" style="filter: grayscale(1);"></a></li>
     <li><a href="https://reddit.com/u/EdbAndZmbfid"><img src="https://github.com/Slymeball/pixel-icons/blob/main/reddit.png?raw=true" style="filter: grayscale(1);"></a></li>
 </ul>
