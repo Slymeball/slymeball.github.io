@@ -23,18 +23,18 @@ hr {
     border-radius: 100%
 }
 
-ul.image-stack {
+ul.social-stack {
     list-style-type: none;
     padding: 0 0;
     margin: 0;
     overflow: hidden;
 }
 
-ul.image-stack li {
+ul.social-stack li {
     float: left;
 }
 
-ul.image-stack li a {
+ul.social-stack li a {
     display: block;
     font-family: "Barlow", sans-serif;
     font-size: 18px;
@@ -45,16 +45,17 @@ ul.image-stack li a {
     padding: 0px 4px;
 }
 
-ul.image-stack li a:hover {
+ul.social-stack li a:hover {
     background-color: none;
 }
 
-ul.image-stack li:first-child a {
+ul.social-stack li:first-child a {
     padding: 0 4px 0 0;
 }
 
-ul.image-stack li a img {
+ul.social-stack li a img {
     border-radius: 5px;
     width: 32px;
+    image-rendering: pixelated;
     background-color: rgba(255,255,255,0.25);
 }
