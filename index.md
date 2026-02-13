@@ -29,4 +29,8 @@ Wish to find me elsewhere on the internet? [Shoot an email](mailto:whereareyou@s
 
 <!-- Here's a freebie! Have you joined DiamondFire recently? -->
 
+## EDIT
+
+It seems I have been found (and with only two hints, damn). If you find where I am, I ask that you keep it private, not because it's fun, but because I don't want everyone suddenly sending friend requests and everything :sob:
+
 [^1]: This was based on an inside joke within a small friendgroup with me and the friend in it. Since the group was all women except for me, they called me the "honorary girl." It's a wonder the egg didn't crack for so long.
